@@ -9,8 +9,8 @@ Getting practice on real life data can be hard without working as a data analyst
 A modified northwind database was used for this book.
 But the solution here is based on Microsoft sample Northwind database.
 
-## List of the 57 practice problems solved in this project
-### Introductory Problems
+### The 57 practice problems solved in this project include:
+#### Introductory Problems
 1. Which shippers do we have?
 2. Certain fields from Categories
 3. Sales Representatives
@@ -30,7 +30,7 @@ But the solution here is based on Microsoft sample Northwind database.
 17. Contact titles for customers
 18. Products with associated supplier names
 19. Orders and the Shipper that was used
-### Intermediate Problems
+#### Intermediate Problems
 20. Categories, and the total products in each category
 21. Total customers per country/city
 22. Products that need reordering
@@ -43,7 +43,7 @@ But the solution here is based on Microsoft sample Northwind database.
 29. Inventory list
 30. Customers with no orders
 31. Customers with no orders for EmployeeID 4
-### Advanced Problems
+#### Advanced Problems
 32. High-value customers
 33. High-value customers - total orders
 34. High-value customers - with discount
